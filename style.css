@@ -104,3 +104,65 @@ span{
     font-size: 0.85rem;
     font-weight: 700;
 }
+
+/* box 6 */
+
+.nav-cart i{
+    font-size: 30px;
+
+}
+
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.nav-language{
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    width: 73px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.language{
+    justify-content: space-evenly;
+    display: flex;
+    width: 54px; 
+    height: 19px;
+    align-items: center;
+}
+.flag{
+    background-image: url(image/flag.jpg);
+    background-size: cover; height: 50px;
+    width: 21px; 
+    height: 16px;
+}
+
+.lang{
+
+    background-color: #0f1111;
+    width: 18px;
+    text-align: center;
+    font-weight: 700;
+}
+.lang-icon {
+    width: 8px;
+    justify-content:last baseline;
+    
+}
+
+
+
+
+
+
+
+
+
+
+.bn1{
+    height: 600px;
+    width: 1500px;
+}
