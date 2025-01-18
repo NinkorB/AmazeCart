@@ -181,12 +181,29 @@ span{
 }
 
 
+/* hero-section */
 
-
-
-
-
-.bn1{
+.hero-section{
+    background-image: url(image/bn1.jpg);
+    background-size: cover;
     height: 600px;
-    width: 1470px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-mgs{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    width: 97%;
+}
+
+.hero-mgs a{
+    color: #007185;
+
 }
