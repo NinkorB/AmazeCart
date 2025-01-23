@@ -243,6 +243,22 @@ span{
 .box-content p{
     color: #007185;
 }
+.inbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 20px 0px 15px;
+}
 .boxin-img{
-    
+    height: 100px;
+    width: 120px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.inbox-text{
+    font-size: 12px;
 }
