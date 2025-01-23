@@ -1,3 +1,6 @@
+<img src="updated.png" alt="GitHub Banner" width="100%" />
+
+
 # AmazeCart
 
 AmazeCart is a frontend-only e-commerce platform designed to replicate a typical online shopping experience using HTML and CSS. It features a visually appealing product catalog, shopping cart, and checkout page, offering a user-friendly design and layout.
